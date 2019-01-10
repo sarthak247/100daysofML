@@ -14,12 +14,12 @@
 
 ## Day 3: 9 Jan 2019
 
-- **Today's Progress:** Started watching Pandas videos from the same course as mentioned earlier. Completed halfway through the videos and learnt today about Pandas series and DataFrames.
-- **Thoughts:** Pandas was even much more fun and easy to learn as compared to NumPy. Since I had studied DBMS before in college, I found it quite easy to co-relate it with Pandas DataFrames
-- [Link to work]()
+- **Today's Progress:** Started watching Pandas videos from the same course as mentioned earlier. Completed halfway through the videos and learnt today about Pandas series and DataFrames. Partially solved Pandas E-commerce exercise.
+- **Thoughts:** Pandas was even much more fun and easy to learn as compared to NumPy. Since I had studied DBMS before in college, I found it quite easy to co-relate it with Pandas DataFrames.
+- [Link to work](https://github.com/sarthak247/100daysofML/tree/master/work/Day%201%20:%209%20Jan%202019)
 
 ## Day 4: 10 Jan 2019
 
-- **Today's Progress:** 
-- **Thoughts:** 
-- [Link to work]()
+- **Today's Progress:** Continued watching Pandas videos. Solved Pandas Salaries exercise and Pandas E-commerce exercises. Also started with Andrew NG's Machine Learning course on Coursera which can be found [here](https://www.coursera.org/learn/machine-learning). Completed upto Intoduction
+- **Thoughts:** The second part of Pandas seemed tough to me. However, Andrew NG's style of teaching is just phenomenonal and I'm pretty sure I am to stick to his course for sometime now.
+- [Link to work](https://github.com/sarthak247/100daysofML/tree/master/work/Day%204%20:%2010%20Jan%202019)
