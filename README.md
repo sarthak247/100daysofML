@@ -23,3 +23,9 @@
 - **Today's Progress:** Continued watching Pandas videos. Solved Pandas Salaries exercise and Pandas E-commerce exercises. Also started with Andrew NG's Machine Learning course on Coursera which can be found [here](https://www.coursera.org/learn/machine-learning). Completed upto Intoduction
 - **Thoughts:** The second part of Pandas seemed tough to me. However, Andrew NG's style of teaching is just phenomenonal and I'm pretty sure I am to stick to his course for sometime now.
 - [Link to work](https://github.com/sarthak247/100daysofML/tree/master/work/Day%204%20:%2010%20Jan%202019)
+
+## Day 5: 11 Jan 2019
+
+- **Today's Progress:** 
+- **Thoughts:** 
+- [Line of work]()
